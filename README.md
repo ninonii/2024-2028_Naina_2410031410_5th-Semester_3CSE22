@@ -1,5 +1,5 @@
 # 2024-2028_Naina_2410031410_5th-Semester_3CSE22
-# AICTE-EduSkills Virtual Internship Capstone Project
+# AICTE-EduSkills AI-ML Virtual Internship 
 
 **Repository Name:** `2024-28_Naina_218161443126_5th-Semester_3CSE22`  
 **Project Title:** Heart Failure Risk Prediction Web Application  
